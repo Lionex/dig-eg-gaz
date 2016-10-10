@@ -101,7 +101,7 @@
                     <placeName>London</placeName>, October 2.
                     <p>Mr P W Macbell is engaged to Countess Vistoria Glsichen. (Reuter)</p>
                 </div>
-                <div type="item">
+                <div type="section" scope="Local and General">
                     <head>LOCAL AND GENERAL
                     <div type="item">
                         <head>Esbekieh Gardens.</head>
@@ -131,7 +131,7 @@
                         <p>An exceedingly successful "soiree de famille" was held at the Mex casino on Saturday evening for the benefit of the Calabrian sufferers, and was attended by a very large number. The entertainment was varied consisting of a short play, orchestral concert, firework display, and a dance There was also a lottery, the winning numbers of which will bo found in another column. A special performance will be given this evening at the Tour Eiffel with the same object,and the programme, which will include items in French, Italian, English German, Greek, etc, should be well received by the large numbers of persons who have bought tickets of admission. The chief attraction will be provided by the three sisters d'Orsay, who sing in several languages and are excellent dancers, and the programme also includes turns by Mlles Orsini, Tina Dumonte, Valincourt, Borgui, etc., etc.</p>
                     </div>
                 </div>
-                <div type="item">
+                <div type="section" scope="Sport and Play">
                     <head>SPORT AND PLAY.</head>
                     <div type="item">
                         <head>KHEDIVIALS YACHT CLUB</head>
@@ -161,7 +161,7 @@
                         H. H. the Khedive having promised to visit the club, the races for cups this week will not be sailed but will be postponed until the occaision of his Highness' visit.
                         THE PRINCES AND THE DAIRA.
                 </div>
-                <div type="item">
+                <div type="section" scope="Interesting Correspondance">
                     <head>INTERESTING CORRESPONDENCE.</head>
                     <div type="item">
                         <p>The claim brought by the Princess, heirs of the late Ismail Pasha, against the Egyptian Government tor the return of the surplus accuring from the sales of the Daira Sanieh properties after the satisfaction of all the creditors of the Daira Sanieh, is to be heard on the 30th inst.</p>
@@ -212,11 +212,11 @@
                         <p>On a recent visit to this well-known and deservedly popular hotel, we were informed by the courteous manager, M. A. de Carli, that extensive alterations were in contemplation, which would, when effected, greatly add to the comfort and convenience of visitors to the hotel. The details of these would not be settled until the arrival of the proprietor, who is expected at an early date ; but we understand that the alterations may include the building of a wide and convenient staircase to the more frequented floors of the building, for the use of those who prefer not to ascend by the lift, and that it is intended to provide an elegant sitting room on the first floor. A garden has recently been laid out ie connection with the bar, and altogether this well-known visitors’ resort shows itself in every way desirous of keeping abreast—if not in advance—of the times. The great height of the buliding should alone form an attraction to those fond of fresh air and fine views, the wide verandahs ran, which entirely round the different floors, enabling the occupants of the various rooms to select the most convenient and sheltered spots in which to enjoy the land or seascape from any point of the compass.</p>
                     </div>
                 </div>
-                <div type="item">
+                <div type="section" scope="Steamer Movements">
                     <head>STEAMER MOVEMENTS.</head>
                     <p>The S.S. Trojan Prince left Manchester on Sunday with passengers and general cargo, and is due to arrive at Alexandrian, via Tunis and Malta, on or about October 16.</p>
                 </div>
-                <div type="item">
+                <div type="section" scope="Personal and Social">
                     <head>PERSONAL AND SOCIAL</head>
                     <div type="item">
                         <p>Rumours are current that Khalil Pasha Hamdi Hamsda, local director of Customs, will shortly replace Skander Pasha Fehmi on the Railway Board, on the retirement of that official on pension.</p>
